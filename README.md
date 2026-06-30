@@ -1,16 +1,41 @@
-## Hi there 👋
+## 🎨 Turning ideas into code
 
-<!--
-**Aakuz-Lusion/Aakuz-Lusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal portfolio — a modern, responsive showcase.  
+This space highlights my skills, projects, and journey in software development.
+## 🌐 Live Demo
+- **Vercel** → [View Here](https://future-fs-01-aakuz.vercel.app/)
 
-Here are some ideas to get you started:
+## ✨ Features
+- ⚡ Lightning‑fast performance with Vite  
+- 🎨 Sleek UI powered by Tailwind CSS  
+- 📱 Fully responsive & mobile‑friendly  
+- 🧩 Built with React + TypeScript  
+- 🚀 Easy deployment (GitHub Pages + Vercel)  
+- 💼 Professional portfolio showcase  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+| Technology       | Usage               |
+|------------------|---------------------|
+| **React**        | Frontend Framework  |
+| **TypeScript**   | Type Safety         |
+| **Vite**         | Build Tool          |
+| **Tailwind CSS** | Styling             |
+| **GitHub Pages** | Static Hosting      |
+| **Vercel**       | Cloud Deployment    |
+
+---
+
+## 💻 Programming Languages
+
+I work with a wide range of languages across software and scripting:
+
+- **[C](ca://s?q=Learn_more_about_C_language)** / **[C++](ca://s?q=Learn_more_about_C++)** / **[C#](ca://s?q=Learn_more_about_Csharp)**  
+- **[Python](ca://s?q=Learn_more_about_Python)**  
+- **[Java](ca://s?q=Learn_more_about_Java)**  
+- **[JavaScript](ca://s?q=Learn_more_about_JavaScript)**  
+- **[PHP](ca://s?q=Learn_more_about_PHP)**  
+- **[Swift](ca://s?q=Learn_more_about_Swift)**  
+
